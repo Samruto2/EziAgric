@@ -1,0 +1,27 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "chore/cleanup-codebase",
+    "feat/stream-validation-ownership-33",
+    "integrate-open-prs-20260504",
+    "main",
+    "origin",
+    "revert-459-backend-hardening-outbox-ipfs-pii"
+  ],
+  "parent": {
+    "chore/cleanup-codebase": "main",
+    "feat/stream-validation-ownership-33": "main",
+    "integrate-open-prs-20260504": "main",
+    "main": null,
+    "origin": "main",
+    "revert-459-backend-hardening-outbox-ipfs-pii": "main"
+  },
+  "order": [
+    "main",
+    "chore/cleanup-codebase",
+    "feat/stream-validation-ownership-33",
+    "integrate-open-prs-20260504",
+    "origin",
+    "revert-459-backend-hardening-outbox-ipfs-pii"
+  ]
+}

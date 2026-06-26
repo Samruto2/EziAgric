@@ -3,12 +3,8 @@ node_modules/
 # Any package `dist/` (includes backend TypeScript output)
 dist/
 coverage/
-.env
-.env.staging
-.env.production
-.env.local
-.vscode/
 *.log
+backend/lint-output.txt
 
 # Pre-migration database backups
 backups/
@@ -22,3 +18,4 @@ gitleaks-report.sarif
 .kiro/specs/avatar-component/tasks.md
 
 .kiro/
+config.bat
